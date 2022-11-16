@@ -1,2 +1,2 @@
 # Ikt-1-Jira
-#Látványterv elkészült
+# Látványterv elkészült
